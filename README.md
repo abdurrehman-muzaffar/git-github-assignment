@@ -14,6 +14,9 @@ branches, and GitHub.
 - Remote repositories
 - GitHub
 
+## Collaboration
+This repository demonstrates a basic Git collaboration workflow.
+
 ## Documentation
 
 This section was created on the feature-documentation branch.
