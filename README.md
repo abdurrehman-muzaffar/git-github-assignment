@@ -21,3 +21,7 @@ This section was created on the feature-documentation branch.
 ## GitHub Update
 
 This update was made directly on GitHub.
+
+## Remote Update
+
+This section was added remotely on GitHub.
