@@ -17,3 +17,7 @@ branches, and GitHub.
 ## Documentation
 
 This section was created on the feature-documentation branch.
+
+## GitHub Update
+
+This update was made directly on GitHub.
